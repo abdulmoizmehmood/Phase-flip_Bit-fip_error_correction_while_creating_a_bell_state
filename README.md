@@ -14,4 +14,4 @@ The bit-flip code and the sign-flip code (you can find a description of both her
   
 !Check sol.ipynb for solution!
 
-sometimes github fails to  render the juputer notebook, in that case use: https://nbviewer.jupyter.org/github/abdulmoizmehmood/oqsfscreening2021/blob/main/sol.ipynb to view on nbviewer.
+sometimes github fails to  render the juputer notebook, in that case use: https://nbviewer.jupyter.org/github/abdulmoizmehmood/oqsfscreening2021/blob/main/sol.ipynb to view via NB viewer.
