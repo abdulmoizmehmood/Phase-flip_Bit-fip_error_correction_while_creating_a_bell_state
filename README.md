@@ -12,6 +12,6 @@ The bit-flip code and the sign-flip code (you can find a description of both her
 
 4.) Test your solution by making many measurements over the final state and testing that the results are in line with the expectations.<p>
   
-!Check solution.ipynb for solution!
+!Check sol.ipynb for solution!
 
-sometimes github fails to  render the juputer notebook, in that case use: https://nbviewer.jupyter.org/github/abdulmoizmehmood/oqsfscreening2021/blob/main/solution.ipynb to view on nbviewer.
+sometimes github fails to  render the juputer notebook, in that case use: https://nbviewer.jupyter.org/github/abdulmoizmehmood/oqsfscreening2021/blob/main/sol.ipynb to view on nbviewer.
